@@ -1,5 +1,8 @@
 [
+    "elastic/elasticsearch",
+    "github-profile-achievements/russian",
     "gomzyakov/laravel-blog",
     "gomzyakov/secretic",
-    "github-profile-achievements/russian"
+    "google/guava",
+    "micronaut-projects/micronaut-core"
 ]
