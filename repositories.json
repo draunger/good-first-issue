@@ -1,8 +1,11 @@
 [
+    "apache/commons-lang",
+    "checkstyle/checkstyle",
     "elastic/elasticsearch",
     "github-profile-achievements/russian",
     "gomzyakov/laravel-blog",
     "gomzyakov/secretic",
     "google/guava",
-    "micronaut-projects/micronaut-core"
+    "micronaut-projects/micronaut-core",
+    "spotbugs/spotbugs"
 ]
